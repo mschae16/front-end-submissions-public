@@ -12,7 +12,7 @@
 
 #### APIs: Traitify
 
-#### Wireframes: See notebook drawings. :)
+#### Wireframes: [Do you hompage wireframe](https://www.dropbox.com/s/9jv1z6740j05de4/do-you-hompage.png?dl=0)
 
 #### Waffle & Github: https://github.com/christielynam/do-you, https://waffle.io/christielynam/do-you
 
