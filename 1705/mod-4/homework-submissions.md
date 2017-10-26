@@ -72,7 +72,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 * [Express Tutorial](https://github.com/mschae16/express-tutorial) Further exercises: 1,2,4
 * [Promise Practice Exercises](https://repl.it/LuJq/1)
-* Websockets Tutorial
+* [Websockets Tutorial](https://github.com/mschae16/socketchat) Challenges: 1, 3, 4
 
 ### Nick Svetnicka
 
